@@ -14,18 +14,13 @@ Junior at Truman State University majoring in Computer Science with a minor in D
 
 # Badges
 
-<b>My GitHub Stats</b>
+<a href="https://github.com/tooEZtz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooEZtz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/tooEZtz"><img src="https://github-readme-stats.vercel.app/api?username=tooEZtz&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="tooEZtz's GitHub stats" /></a>
-<a href="http://www.github.com/tooEZtz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tooEZtz&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/tooEZtz/Guitar-Teacher" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tooEZtz&repo=Guitar-Teacher&title_color=a855f7&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tooEZtz/nike" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tooEZtz&repo=nike&title_color=a855f7&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/tooEZtz/-Nike" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tooEZtz&repo=-Nike&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tooEZtz/Guitar-Teacher" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tooEZtz&repo=Guitar-Teacher&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-# Support Me
+<br /><br /><br /><br /><br />
 
-<ul style="list-style-type: none; margin: 0;">
+<div width="100%" align="center"><a href="https://github.com/tooEZtz/VCT_2024_Data_Aalysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tooEZtz&repo=VCT_2024_Data_Aalysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tooEZtz/Weather" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tooEZtz&repo=Weather&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/tooEZtzy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
