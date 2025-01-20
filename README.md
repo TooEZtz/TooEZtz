@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shalin Bhattarai 
-Front End Dev
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shalin Bhattarai 
+### Front End Dev
 
 Junior at Truman State University majoring in Computer Science with a minor in Data Science. Experienced in front-end web development tools such as HTML, CSS,Tailwind CSS, JavaScript php,and React,. Have knowledge on Python, Java, and R. Some experience with Unreal Engine 5. Strong passion for building responsive, user-friendly web interfaces and working with Data and software development. Seeking an internship to contribute to real-world front-end projects and gain practical industry experience 
 * 🌍  I'm based in Missouri
